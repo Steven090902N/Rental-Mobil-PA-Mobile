@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264774810630",
+    "project_id": "rental-mobil-d6a11",
+    "storage_bucket": "rental-mobil-d6a11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264774810630:android:6e56370fa6bc718e87d787",
+        "android_client_info": {
+          "package_name": "com.example.projek_akhir_rental_mobil_k1_c1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc6c2A06OMAO4FqXoixXWVtzFK5KmP37w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
